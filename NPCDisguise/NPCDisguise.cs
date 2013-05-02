@@ -6,7 +6,7 @@ using Hooks;
 using Terraria;
 using TShockAPI;
 using System.ComponentModel;
-//test
+
 namespace NPCDisguise
 {
 	[APIVersion(1, 12)]
